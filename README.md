@@ -1,9 +1,9 @@
 # Facebook-BruteForce
-```
-Bruteforce attack, For educational purpose only
-```
-## Find here a video on YouTube
-https://youtu.be/qIfGxDmRQIU
+
+## Screenshots
+![Capture3](https://github.com/sakethdonepudi/FacebookBruteForce/assets/94643857/ffad3da6-5eae-4bef-a6a7-c8db7c70e355)
+![Capture2](https://github.com/sakethdonepudi/FacebookBruteForce/assets/94643857/a7a17208-4035-488f-b5ba-0ade7ee3e798)
+![Capture1](https://github.com/sakethdonepudi/FacebookBruteForce/assets/94643857/05269aff-1eab-4fdc-97e3-0a7bf8b05e07)
 
 ## Install Requirements (on Linux)
 ```
@@ -19,19 +19,3 @@ https://youtu.be/qIfGxDmRQIU
 >> python3 fb.py or python fb2.py
 ```
 
-## Screenshots
-![CAPTURE 1](https://github.com/IAmBlackHacker/Facebook-BruteForce/blob/master/Screenshots/Capture1.JPG)
-![CAPTURE 1](https://github.com/IAmBlackHacker/Facebook-BruteForce/blob/master/Screenshots/Capture2.JPG)
-![CAPTURE 1](https://github.com/IAmBlackHacker/Facebook-BruteForce/blob/master/Screenshots/Capture3.JPG)
-
-## Protection Against Attacker
-* Use Strong Password(which contains standard password chars + longest as possible)
-* Use 2F Authentication.
-* Make location based login(+browser based).
-
-## Explore More in Hacking ...
-https://www.facebook.com/B14CKH4K3R/
-
-~~~
-Happy Hacking Day !
-~~~
